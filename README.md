@@ -1,4 +1,13 @@
-# Computer_Vision-Social_Distancing_Detection
+# CV_Social_Distance_Detection
+
+### Dataset Links : 
+http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/project.html
+
+- Download Video File from link above : TownCentreXVID.avi (342MB)
+  - store video file 'TownCentreXVID.avi' in 'data' folder
+- TownCentre-calibration.ci :  
+http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentre-calibration.ci
+
 
 # Computer Vision Learning Resources : 
 - Computer Vision Algorithms and Applications (by Richard Szeliski)
@@ -17,5 +26,3 @@
 # Research Paper References : 
 - https://www.ijser.org/researchpaper/A-Simple-Birds-Eye-View-Transformation-Technique.pdf
 - https://download.atlantis-press.com/article/25885184.pdf. (file:///Users/roambee/Downloads/25885184.pdf)
-
-
