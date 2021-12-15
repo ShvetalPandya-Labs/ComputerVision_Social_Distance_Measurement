@@ -1,9 +1,9 @@
 # CV_Social_Distance_Measurement
-- (1)  Calibration: transformation of perspective view into bird’s-eye (top-down) view
+- (1) Calibration: transformation of perspective view into bird’s-eye (top-down) view
 - (2) Detection: Open Source pedestrian detection network based on the Faster R-CNN architecture
 - (3) Measurement
 
-- current Status : Completed step-1 and partially completed step-2
+### current Status : Completed step-1 and partially completed step-2
 
 ### Dataset Links : 
 http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/project.html
