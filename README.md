@@ -3,7 +3,8 @@
 - (2) Detection: Open Source pedestrian detection network based on the Faster R-CNN architecture
 - (3) Measurement
 
-### current Status : Completed step-1 and partially completed step-2
+current Status : Completed step-1 and partially completed step-2
+
 
 ### Dataset Links : 
 http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/project.html
