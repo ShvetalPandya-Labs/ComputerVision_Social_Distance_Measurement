@@ -1,7 +1,7 @@
 # CV_Social_Distance_Measurement
-(1) Calibration: transformation of perspective view into bird’s-eye (top-down) view
-(2) Detection: Open Source pedestrian detection network based on the Faster R-CNN architecture
-(3) Measurement
+- (1)  Calibration: transformation of perspective view into bird’s-eye (top-down) view
+- (2) Detection: Open Source pedestrian detection network based on the Faster R-CNN architecture
+- (3) Measurement
 
 - current Status : Completed step-1 and partially completed step-2
 
