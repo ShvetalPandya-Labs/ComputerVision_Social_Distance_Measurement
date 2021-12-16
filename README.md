@@ -1,4 +1,4 @@
-# CV_Social_Distance_Measurement
+# CV : Social Distance Measurement (and Mask detection as Future work) in Surveillance Video Footages
 - (1) Calibration: transformation of perspective view into bird’s-eye (top-down) view
 - (2) Detection: Open Source pedestrian detection network based on the Faster R-CNN architecture
 - (3) Measurement
