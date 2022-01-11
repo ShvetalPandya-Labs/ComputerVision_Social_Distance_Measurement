@@ -1,9 +1,13 @@
 # CV : Social Distance Measurement (and Mask detection as Future work) in Surveillance Video Footages
+
+# Modules of Project
 - (1) Calibration: transformation of perspective view into bird’s-eye (top-down) view
 - (2) Detection: Open Source pedestrian detection network based on the Faster R-CNN architecture
 - (3) Measurement
 
-current Status : Completed step-1 and partially completed step-2
+### Note : 
+This project is on middle stage of development. Current Status of the project is : Completed step-1 and partially completed step-2
+
 
 
 ### Dataset Links : 
